@@ -1,0 +1,6 @@
+EXPORTS
+
+QueryProxyInfo
+EnableProxy
+DisableProxy
+

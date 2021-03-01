@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1259
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "IE Proxy Setting", "IE Proxy Setting\IE Proxy Setting.vcxproj", "{5ED8A10F-DDA4-4929-A40A-490FBF6F42A0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Release|Win32 x86 = Release|Win32 x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5ED8A10F-DDA4-4929-A40A-490FBF6F42A0}.Release|Win32 x86.ActiveCfg = Release|Win32
+		{5ED8A10F-DDA4-4929-A40A-490FBF6F42A0}.Release|Win32 x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {265D6AD3-DB01-443B-8143-A7CE320F0E05}
+	EndGlobalSection
+EndGlobal
